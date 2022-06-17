@@ -1,3 +1,5 @@
 export default function Messages () {
-  <h1>Messages</h1>
+  return (
+    <h1>Messages</h1>
+  )
 }
